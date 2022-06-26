@@ -1,30 +1,39 @@
 {
-  "dogs": [{
-      "dogName": "Luca",
-      "dogBreed": "German Shepherd",
+  "dogs": [
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
       "id": 1
     },
     {
-      "dogName": "Lola",
-      "dogBreed": "Giant Schnauzer",
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
       "id": 2
     }
   ],
-  "cats": [{
-      "catName": "Stanley",
-      "catBreed": "Tabby",
+  "cats": [],
+  "users": [
+    {
+      "name": "Kelvin",
+      "email": "Koech",
       "id": 1
     },
     {
-      "catName": "Gunnar",
-      "catBreed": "American Shorthair",
+      "name": "Kelvin",
+      "email": "Koech",
       "id": 2
+    },
+    {
+      "name": "Joel",
+      "email": "Ruto",
+      "id": 3
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
